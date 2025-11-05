@@ -34,7 +34,7 @@ Materiais sobre computação em nuvem, práticas DevOps e fundamentos da AWS.
 
 ## 📦 Estrutura do Repositório
 ```
-estudos-tech/
+estudos/
 │
 ├── README.md
 ├── 🧠 Inteligência-Artificial/
